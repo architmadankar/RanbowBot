@@ -14,7 +14,7 @@ Periodically randomizes the colour of a discord role for those people who dont l
  ## For linux
   1. Clone the repo `git clone https://github.com/architmadankar/RanbowBot.git`
   2. Open folder using `cd RanbowBot` command.
-  3 Install node.js and npm packages from apt `apt install nodejs npm`
-  4 For editing `config.json` use `nano config.json` command.
+  3. Install node.js and npm packages from apt `apt install nodejs npm`
+  4. For editing `config.json` use `nano config.json` command.
   5. Run `npm install` and `npm install discord.js`
   6. Start BOT using `node bot.js`
