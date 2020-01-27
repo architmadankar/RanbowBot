@@ -1,6 +1,6 @@
 # Ranbowbot
 
-Periodically randomizes the colour of a discord role for those people who dont like to conform to just one chat color!
+Periodically randomizes the colour of a discord role for those people who dont like to confirm to just one chat color!
 
 ## For Windows
  1. Clone the repo `git clone https://github.com/architmadankar/RanbowBot.git`
