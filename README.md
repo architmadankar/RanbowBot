@@ -2,7 +2,7 @@
 
 Periodically randomizes the colour of a discord role for those people who dont like to conform to just one chat color!
 
-## Setup
+## For Windows
  1. Clone the repo `git clone https://github.com/architmadankar/RanbowBot.git`
  2. Download [NODE.js](https://nodejs.org/dist/v12.14.1/node-v12.14.1-x64.msi)
  3. Edit`config.json` and add your discord bot token, Set you desired delay time.
@@ -11,3 +11,10 @@ Periodically randomizes the colour of a discord role for those people who dont l
  6. Run `npm install discord.js` for Discord dependencies.
  7. Start the bot by running `start.bat`
  
+ ## For linux
+  1. Clone the repo `git clone https://github.com/architmadankar/RanbowBot.git`
+  2. Open folder using `cd RanbowBot` command.
+  3 Install node.js and npm packages from apt `apt install nodejs npm`
+  4 For editing `config.json` use `nano config.json` command.
+  5. Run `npm install` and `npm install discord.js`
+  6. Start BOT using `node bot.js`
