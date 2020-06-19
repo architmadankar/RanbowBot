@@ -1,7 +1,7 @@
 {
     "token": "your_bot_token",
     "prefix": "+",
-    "rainbowdelay": 3000,
+    "rainbowdelay": 2000,
     "rainbowcommand": "start",
     "rainbowstop": "stop",
     "rainbowrole": [
